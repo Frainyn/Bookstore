@@ -1,5 +1,4 @@
-﻿
-using Json.Database.Entity;
+﻿using Json.Database.Entity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging.Abstractions;
 using Microsoft.Extensions.Options;
@@ -15,6 +14,9 @@ namespace Json.Data;
 
 public class ConsoleAppDatabase : DbContext
 {
+    
+
+
 
     public DbSet<Book> books { get; set; } = null!;
     public DbSet<Author> authors { get; set; } = null!;
@@ -22,22 +24,26 @@ public class ConsoleAppDatabase : DbContext
     public DbSet<HistoryFiles> historyFiles { get; set; } = null!;
 
 
+
     //public ConsoleAppDatabase() => Database.EnsureCreated();
 
-    string connection = string.Format("server=localhost;user=root;password=123;database=json;");
-   
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) 
-    {
-        optionsBuilder.UseMySql(connection, new MySqlServerVersion(new Version(8, 10, 28)));
-    }
+    //string connection = string.Format("server=localhost;user=root;password=123;database=json;");
 
-    public void migration()
+    //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) 
+    //{
+    //    optionsBuilder.UseMySql(connection, new MySqlServerVersion(new Version(8, 10, 28)));
+    //}
+    public ConsoleAppDatabase(DbContextOptions<ConsoleAppDatabase> options) : base(options)
     {
-        using (ConsoleAppDatabase db = new ConsoleAppDatabase())
-        {
-            db.Database.Migrate();
-        }
+        Database.Migrate();
     }
+    //public void migration()
+    //{
+    //    using (ConsoleAppDatabase db = new ConsoleAppDatabase())
+    //    {
+    //        db.Database.Migrate();
+    //    }
+    //}
 
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -53,9 +59,9 @@ public class ConsoleAppDatabase : DbContext
         Console.WriteLine(Assembly.GetExecutingAssembly());
     }
 
-
-
-
-
+    public void migration()
+    {
+        throw new NotImplementedException();
+    }
 }
 

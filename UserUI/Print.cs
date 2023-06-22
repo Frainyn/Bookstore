@@ -11,8 +11,9 @@ namespace Json.Service;
 
 public class Print
 {
+
     private ConsoleAppDatabase _db;
-    internal Print(ConsoleAppDatabase db)
+    public Print(ConsoleAppDatabase db)
     {
         _db = db;
     }

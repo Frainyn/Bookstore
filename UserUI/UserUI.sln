@@ -3,17 +3,22 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserUI", "UserUI.csproj", "{8DEF67B4-0338-48E8-BB9C-AC2C798889F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserUI", "UserUI.csproj", "{8DEF67B4-0338-48E8-BB9C-AC2C798889F0}"
 	ProjectSection(ProjectDependencies) = postProject
 		{099D4A2C-E43E-4271-86E7-4B516169074C} = {099D4A2C-E43E-4271-86E7-4B516169074C}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "..\Application\Application.csproj", "{099D4A2C-E43E-4271-86E7-4B516169074C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "..\Application\Application.csproj", "{099D4A2C-E43E-4271-86E7-4B516169074C}"
 	ProjectSection(ProjectDependencies) = postProject
 		{CF72159C-C178-4AAA-B30D-4614269FF5FB} = {CF72159C-C178-4AAA-B30D-4614269FF5FB}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "..\Domain\Domain.csproj", "{CF72159C-C178-4AAA-B30D-4614269FF5FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "..\Domain\Domain.csproj", "{CF72159C-C178-4AAA-B30D-4614269FF5FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUI", "..\WebUI\WebUI.csproj", "{2A96DB0C-C89A-405C-966E-CF6575C50810}"
+	ProjectSection(ProjectDependencies) = postProject
+		{099D4A2C-E43E-4271-86E7-4B516169074C} = {099D4A2C-E43E-4271-86E7-4B516169074C}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +38,10 @@ Global
 		{CF72159C-C178-4AAA-B30D-4614269FF5FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF72159C-C178-4AAA-B30D-4614269FF5FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF72159C-C178-4AAA-B30D-4614269FF5FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A96DB0C-C89A-405C-966E-CF6575C50810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A96DB0C-C89A-405C-966E-CF6575C50810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A96DB0C-C89A-405C-966E-CF6575C50810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A96DB0C-C89A-405C-966E-CF6575C50810}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
