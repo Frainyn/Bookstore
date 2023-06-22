@@ -105,7 +105,7 @@ namespace Json.Service.JobConsole
                             }
                             
                             Console.WriteLine($"Наименование по фильтрации");
-                            string name = Console.ReadLine();
+                            string name = Console.ReadLine()!;
                             if(name == null)
                             {
                                 break;
@@ -159,7 +159,7 @@ namespace Json.Service.JobConsole
             }
 
 
-            books.Add(new Book() { Title = title, Category = category, Description = description, Price = price, AuthorID = authorID });
+            books.Add(new Book() { Title = title!, Category = category!, Description = description!, Price = price, AuthorID = authorID });
             return books;
         }
 

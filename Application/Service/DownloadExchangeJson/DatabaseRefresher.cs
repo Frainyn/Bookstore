@@ -35,13 +35,13 @@ public class DatabaseRefresher
             for (int j = 0; j < obj[i].Authors?.Count; j++)
             {
                 var authorModel = obj[i].Authors?[j];
-                var res = db.authors.FirstOrDefault(x => x.Id == authorModel.Id);
+                var res = db.authors.FirstOrDefault(x => x.Id == authorModel!.Id);
                 if (res == null)
                 {
                     var author = new Author
                     {
-                        Id = authorModel.Id,
-                        Name = authorModel?.Name
+                        Id = authorModel!.Id,
+                        Name = authorModel!.Name
                     };
                     db.authors.Add(author);
                     db.SaveChanges();
@@ -53,12 +53,12 @@ public class DatabaseRefresher
             for (int j = 0; j < obj[i].Books?.Count; j++)
             {
                 var bookModel = obj[i].Books?[j];
-                var res = db.books.FirstOrDefault(x => x.Id1C == bookModel.Id1C);
+                var res = db.books.FirstOrDefault(x => x.Id1C == bookModel!.Id1C);
                 if (res == null)
                 {
                     var book = new Book
                     {
-                        Id = bookModel.Id,
+                        Id = bookModel!.Id,
                         Id1C = bookModel.Id1C,
                         Category = bookModel.Category,
                         Title = bookModel.Title,
@@ -72,7 +72,7 @@ public class DatabaseRefresher
             };
 
             //Добавление библиотеки
-            foreach (var book in obj[i].Books)
+            foreach (var book in obj[i].Books!)
             {
                 var res = db.libraries.FirstOrDefault(x => x.Id == book.Id);
                 if (res == null)
