@@ -3,6 +3,7 @@ using Json.Data;
 using Json.Service;
 using Microsoft.EntityFrameworkCore;
 using WebUI;
+using WebUI.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -33,6 +34,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseMiddleware<CustomMiddleware>();
+
 
 app.UseHttpsRedirection();
 app.UseAuthorization();
