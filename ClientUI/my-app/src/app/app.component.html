@@ -1,0 +1,21 @@
+<div class="container">
+<h1 class="text-center p-4">Библиотека</h1>
+<!-- <app-product 
+  [books]="books[0]"
+></app-product> -->
+
+
+<p *ngIf="loading" class="text-center">Loading...</p>
+
+
+<!-- <app-book
+  *ngFor="let book of books; let i = index"
+  [book]="book"
+></app-book> -->
+
+
+<app-book
+  *ngFor="let book of books$ | async; let i = index"
+  [book]="book"
+></app-book>
+</div>

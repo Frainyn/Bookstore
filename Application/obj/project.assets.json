@@ -734,19 +734,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Developer\\.nuget\\packages\\": {}
+    "C:\\Users\\frain\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Developer\\_course\\OOP\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\frain\\Frainyn\\2. Работа\\Учебный проект\\Bookstore\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\Developer\\_course\\OOP\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Developer\\_course\\OOP\\Application\\obj\\",
+      "projectPath": "C:\\Users\\frain\\Frainyn\\2. Работа\\Учебный проект\\Bookstore\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\frain\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\frain\\Frainyn\\2. Работа\\Учебный проект\\Bookstore\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\frain\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -760,8 +760,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Developer\\_course\\OOP\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Developer\\_course\\OOP\\Domain\\Domain.csproj"
+            "C:\\Users\\frain\\Frainyn\\2. Работа\\Учебный проект\\Bookstore\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\frain\\Frainyn\\2. Работа\\Учебный проект\\Bookstore\\Domain\\Domain.csproj"
             }
           }
         }
@@ -801,7 +801,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

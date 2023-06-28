@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Developer\\_course\\OOP\\WebUI\\WebUI.csproj": {}
+    "C:\\Users\\frain\\Frainyn\\2. Работа\\Учебный проект\\Bookstore\\WebUI\\WebUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Developer\\_course\\OOP\\Application\\Application.csproj": {
+    "C:\\Users\\frain\\Frainyn\\2. Работа\\Учебный проект\\Bookstore\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Developer\\_course\\OOP\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\frain\\Frainyn\\2. Работа\\Учебный проект\\Bookstore\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Developer\\_course\\OOP\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Developer\\_course\\OOP\\Application\\obj\\",
+        "projectPath": "C:\\Users\\frain\\Frainyn\\2. Работа\\Учебный проект\\Bookstore\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\frain\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\frain\\Frainyn\\2. Работа\\Учебный проект\\Bookstore\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\frain\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Developer\\_course\\OOP\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Developer\\_course\\OOP\\Domain\\Domain.csproj"
+              "C:\\Users\\frain\\Frainyn\\2. Работа\\Учебный проект\\Bookstore\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\frain\\Frainyn\\2. Работа\\Учебный проект\\Bookstore\\Domain\\Domain.csproj"
               }
             }
           }
@@ -69,21 +69,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Developer\\_course\\OOP\\Domain\\Domain.csproj": {
+    "C:\\Users\\frain\\Frainyn\\2. Работа\\Учебный проект\\Bookstore\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Developer\\_course\\OOP\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\frain\\Frainyn\\2. Работа\\Учебный проект\\Bookstore\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Developer\\_course\\OOP\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Developer\\_course\\OOP\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\frain\\Frainyn\\2. Работа\\Учебный проект\\Bookstore\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\frain\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\frain\\Frainyn\\2. Работа\\Учебный проект\\Bookstore\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\frain\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -134,21 +134,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Developer\\_course\\OOP\\WebUI\\WebUI.csproj": {
+    "C:\\Users\\frain\\Frainyn\\2. Работа\\Учебный проект\\Bookstore\\WebUI\\WebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Developer\\_course\\OOP\\WebUI\\WebUI.csproj",
+        "projectUniqueName": "C:\\Users\\frain\\Frainyn\\2. Работа\\Учебный проект\\Bookstore\\WebUI\\WebUI.csproj",
         "projectName": "WebUI",
-        "projectPath": "C:\\Users\\Developer\\_course\\OOP\\WebUI\\WebUI.csproj",
-        "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Developer\\_course\\OOP\\WebUI\\obj\\",
+        "projectPath": "C:\\Users\\frain\\Frainyn\\2. Работа\\Учебный проект\\Bookstore\\WebUI\\WebUI.csproj",
+        "packagesPath": "C:\\Users\\frain\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\frain\\Frainyn\\2. Работа\\Учебный проект\\Bookstore\\WebUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\frain\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -162,8 +162,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Developer\\_course\\OOP\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Developer\\_course\\OOP\\Application\\Application.csproj"
+              "C:\\Users\\frain\\Frainyn\\2. Работа\\Учебный проект\\Bookstore\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\frain\\Frainyn\\2. Работа\\Учебный проект\\Bookstore\\Application\\Application.csproj"
               }
             }
           }
@@ -214,7 +214,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

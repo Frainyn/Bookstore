@@ -23,6 +23,14 @@ builder.Services.AddScoped<CRUD>();
 builder.Services.AddScoped<DownloadExch>();
 
 
+builder.Services.AddCors(options => {
+    options.AddPolicy("MyPolice", policy => {
+        policy.AllowCredentials()
+        .AllowAnyMethod()
+        .AllowAnyHeader()
+        .SetIsOriginAllowed(opt => true);
+    });
+});
 
 var app = builder.Build();
 
@@ -37,7 +45,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseMiddleware<CustomMiddleware>();
 
-
+app.UseCors("MyPolice");
 app.UseHttpsRedirection();
 app.UseAuthorization();
 

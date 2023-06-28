@@ -10,3 +10,15 @@ C:\Users\Developer\_course\OOP\Domain\obj\Debug\net6.0\Domain.dll
 C:\Users\Developer\_course\OOP\Domain\obj\Debug\net6.0\refint\Domain.dll
 C:\Users\Developer\_course\OOP\Domain\obj\Debug\net6.0\Domain.pdb
 C:\Users\Developer\_course\OOP\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\Domain\obj\Debug\net6.0\ref\Domain.dll

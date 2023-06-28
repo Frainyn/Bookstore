@@ -714,19 +714,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Developer\\.nuget\\packages\\": {}
+    "C:\\Users\\frain\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Developer\\_course\\OOP\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\frain\\Frainyn\\2. Работа\\Учебный проект\\Bookstore\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\Developer\\_course\\OOP\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Developer\\_course\\OOP\\Domain\\obj\\",
+      "projectPath": "C:\\Users\\frain\\Frainyn\\2. Работа\\Учебный проект\\Bookstore\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\frain\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\frain\\Frainyn\\2. Работа\\Учебный проект\\Bookstore\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\frain\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -777,7 +777,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

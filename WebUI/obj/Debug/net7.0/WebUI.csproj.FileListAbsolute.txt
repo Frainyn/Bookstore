@@ -40,3 +40,45 @@ C:\Users\Developer\_course\OOP\WebUI\obj\Debug\net7.0\refint\WebUI.dll
 C:\Users\Developer\_course\OOP\WebUI\obj\Debug\net7.0\WebUI.pdb
 C:\Users\Developer\_course\OOP\WebUI\obj\Debug\net7.0\WebUI.genruntimeconfig.cache
 C:\Users\Developer\_course\OOP\WebUI\obj\Debug\net7.0\ref\WebUI.dll
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\bin\Debug\net7.0\appsettings.json
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\bin\Debug\net7.0\WebUI.exe
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\bin\Debug\net7.0\WebUI.deps.json
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\bin\Debug\net7.0\WebUI.runtimeconfig.json
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\bin\Debug\net7.0\WebUI.dll
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\bin\Debug\net7.0\WebUI.pdb
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\bin\Debug\net7.0\Application.dll
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\bin\Debug\net7.0\Domain.dll
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\bin\Debug\net7.0\Application.pdb
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\bin\Debug\net7.0\Domain.pdb
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\obj\Debug\net7.0\WebUI.csproj.AssemblyReference.cache
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\obj\Debug\net7.0\WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\obj\Debug\net7.0\WebUI.AssemblyInfoInputs.cache
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\obj\Debug\net7.0\WebUI.AssemblyInfo.cs
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\obj\Debug\net7.0\WebUI.csproj.CoreCompileInputs.cache
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\obj\Debug\net7.0\WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\obj\Debug\net7.0\WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\obj\Debug\net7.0\staticwebassets\msbuild.WebUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\obj\Debug\net7.0\staticwebassets\msbuild.build.WebUI.props
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebUI.props
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebUI.props
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\obj\Debug\net7.0\scopedcss\bundle\WebUI.styles.css
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\obj\Debug\net7.0\WebUI.csproj.CopyComplete
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\obj\Debug\net7.0\WebUI.dll
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\obj\Debug\net7.0\refint\WebUI.dll
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\obj\Debug\net7.0\WebUI.pdb
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\obj\Debug\net7.0\WebUI.genruntimeconfig.cache
+C:\Users\frain\Frainyn\2. Работа\Учебный проект\Bookstore\WebUI\obj\Debug\net7.0\ref\WebUI.dll
